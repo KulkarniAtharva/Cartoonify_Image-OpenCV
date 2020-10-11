@@ -8,7 +8,7 @@ I have published an article on [Medium](https://medium.com/@atharvakulkarni2204/
 ## Licence
 
 ```
-Copyright [2020] [Atharva Kulkarni]
+Copyright 2020 Atharva Kulkarni
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
